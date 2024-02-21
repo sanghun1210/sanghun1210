@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm Athul.</h2>
+<h2 align="center">👋 Hello! I'm Sanghun.</h2>
 <p align="center">
   <a href="https://blog.athulcyriac.in">Blog</a> •
   <a href="https://twitter.com/athulcajay">Twitter</a>
