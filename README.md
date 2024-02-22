@@ -1,4 +1,4 @@
-![profile](https://github.com/sanghun1210/sanghun1210/assets/7554521/b0f8f8d6-32bc-41c4-8aec-b0e9b6f3675a)
+![profile](https://github.com/sanghun1210/sanghun1210/assets/7554521/b0f8f8d6-32bc-41c4-8aec-b0e9b6f3675a){: width="70%" height="70%"}
 
 <h2 align="center">👋 Hello! I'm Sanghun.</h2>
 <p align="center">
