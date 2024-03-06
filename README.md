@@ -14,14 +14,19 @@
 
 -------
 
-**📝 Latest Blog Posts**
+## 👨‍🔧_technologist: Hi there!
+I am a former biologist turned data scientist who is passionate about data science and machine learning uplift in the public sector. My repositories feature R and Python programming tutorials, with a focus on using R and Python for data analysis, statistical modelling and machine learning.
 
+## :👨‍🔧_technologist: Stack
+![](https://img.shields.io/badge/Language-R-blue) ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Theory-Statistics-orange) ![](https://img.shields.io/badge/Theory-Mathematics-orange)
+
+## :👨‍🔧_technologist: Latest [blog posts](https://sanghun1210.github.io/)
 <!-- BLOG-POST-LIST:START -->
-- [Yearly Review 2023](https://blog.athulcyriac.in/blog/2023/)
-- [For Abraham, forever ago](https://blog.athulcyriac.in/blog/abraham/)
-- [20 → 22](https://blog.athulcyriac.in/blog/20-and-22/)
-- [The Purpose of being Purposeless](https://blog.athulcyriac.in/blog/purpose/)
-- [22 and Still Dumb!](https://blog.athulcyriac.in/blog/2022/)
+- [Connecting RStudio to GitHub](https://erikaduan.github.io/posts/2021-05-30-syncing-to-github)
+- [Advanced data.table operations](https://erikaduan.github.io/posts/2021-02-16-data-table-part-2)
+- [Introduction to data.table](https://erikaduan.github.io/posts/2021-01-30-data-table-part-1)
+- [Volcano plots with ggplot2](https://erikaduan.github.io/posts/2021-01-02-volcano-plots-with-ggplot2)
+- [Cleaning free text and wrangling strings](https://erikaduan.github.io/posts/2020-12-31-cleaning-free-text-and-wrangling-strings)
 <!-- BLOG-POST-LIST:END -->
 
 -------
