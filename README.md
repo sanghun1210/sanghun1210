@@ -14,7 +14,7 @@
 
 -------
 
-## :woman_technologist: Hi there!
+## :man_technologist: Hi there!
 I am a former biologist turned data scientist who is passionate about data science and machine learning uplift in the public sector. My repositories feature R and Python programming tutorials, with a focus on using R and Python for data analysis, statistical modelling and machine learning.
 
 ## :👨‍🔧: Stack
