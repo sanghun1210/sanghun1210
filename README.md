@@ -14,13 +14,13 @@
 
 -------
 
-## 👨‍🔧_technologist: Hi there!
+## 👨‍🔧: Hi there!
 I am a former biologist turned data scientist who is passionate about data science and machine learning uplift in the public sector. My repositories feature R and Python programming tutorials, with a focus on using R and Python for data analysis, statistical modelling and machine learning.
 
-## :👨‍🔧_technologist: Stack
+## :👨‍🔧: Stack
 ![](https://img.shields.io/badge/Language-R-blue) ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Theory-Statistics-orange) ![](https://img.shields.io/badge/Theory-Mathematics-orange)
 
-## :👨‍🔧_technologist: Latest [blog posts](https://sanghun1210.github.io/)
+## :👨‍🔧: Latest [blog posts](https://sanghun1210.github.io/)
 <!-- BLOG-POST-LIST:START -->
 - [Connecting RStudio to GitHub](https://erikaduan.github.io/posts/2021-05-30-syncing-to-github)
 - [Advanced data.table operations](https://erikaduan.github.io/posts/2021-02-16-data-table-part-2)
