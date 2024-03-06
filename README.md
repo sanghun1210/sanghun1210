@@ -15,12 +15,13 @@
 -------
 
 ## :man_technologist: Hi there!
-I am a former biologist turned data scientist who is passionate about data science and machine learning uplift in the public sector. My repositories feature R and Python programming tutorials, with a focus on using R and Python for data analysis, statistical modelling and machine learning.
+나는 클라우드 솔루션 아키텍트이자 개발자입니다. 데이터 관리, 자동화, 암호화 관련해서 다양한 프로젝트 경험과 열정을 가지고 있습니다. 
+Git Repository는 주로 R과 Python Project를 중심으로 하고 있으며, 데이터 분석, 통계, 머신러닝을 다루고 있습니다.
 
-## :👨‍🔧: Stack
+## :man_technologist: Stack
 ![](https://img.shields.io/badge/Language-R-blue) ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Theory-Statistics-orange) ![](https://img.shields.io/badge/Theory-Mathematics-orange)
 
-## :👨‍🔧: Latest [blog posts](https://sanghun1210.github.io/)
+## :man_technologist: Latest [blog posts](https://sanghun1210.github.io/)
 <!-- BLOG-POST-LIST:START -->
 - [Connecting RStudio to GitHub](https://erikaduan.github.io/posts/2021-05-30-syncing-to-github)
 - [Advanced data.table operations](https://erikaduan.github.io/posts/2021-02-16-data-table-part-2)
