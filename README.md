@@ -20,8 +20,8 @@ Git Repository는 주로 R과 Python Project를 중심으로 하고 있으며, �
 블로그는 AWS 보안, Terraform, R, Python 등의 기술 내용을 담고 있습니다.
 
 ## :man_technologist: Stack
-![](https://img.shields.io/badge/Language-R-blue) ![](https://img.shields.io/badge/Language-Python-blue&logo=Python) ![](https://img.shields.io/badge/Theory-Statistics-orange) ![](https://img.shields.io/badge/Theory-Mathematics-orange)
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white")
+![](https://img.shields.io/badge/Language-R-blue) ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Theory-Statistics-orange) ![](https://img.shields.io/badge/Theory-Mathematics-orange)
+![]("https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white")
 
 
 ## :man_technologist: Latest [blog posts](https://sanghun1210.github.io/)
