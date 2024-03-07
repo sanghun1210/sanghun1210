@@ -15,8 +15,9 @@
 -------
 
 ## :man_technologist: Hi there!
-나는 클라우드 솔루션 아키텍트이자 개발자입니다. 데이터 관리, 자동화, 암호화 관련해서 다양한 프로젝트 경험과 열정을 가지고 있습니다. 
+데이터 분석, 자동화, 암호화 관련해서 다양한 프로젝트 경험과 강한 열정을 가진 클라우드 솔루션 아키텍트이자 개발자입니다. 
 Git Repository는 주로 R과 Python Project를 중심으로 하고 있으며, 데이터 분석, 통계, 머신러닝을 다루고 있습니다.
+블로그는 AWS 보안, Terraform, R, Python 등의 기술 내용을 담고 있습니다.
 
 ## :man_technologist: Stack
 ![](https://img.shields.io/badge/Language-R-blue) ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Theory-Statistics-orange) ![](https://img.shields.io/badge/Theory-Mathematics-orange)
