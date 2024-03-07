@@ -23,11 +23,6 @@ Git Repository는 주로 R과 Python Project를 중심으로 하고 있으며, �
 ## :man_technologist: Stack
 ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  ![](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  ![](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  ![](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)  ![](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 
-<img width="117" alt="스크린샷 2024-03-07 오후 4 34 55" src="https://github.com/sanghun1210/sanghun1210/assets/7554521/2e740aa2-5c08-49f3-b252-1f1acc8c0922">
-<img width="141" alt="스크린샷 2024-03-07 오후 4 34 24" src="https://github.com/sanghun1210/sanghun1210/assets/7554521/07e4755e-30f4-40ff-a377-2986ae271e10">
-<img width="119" alt="스크린샷 2024-03-07 오후 4 34 33" src="https://github.com/sanghun1210/sanghun1210/assets/7554521/44d3b9c3-5880-48f7-9f3d-7e2feb9343d4">
-<img width="131" alt="스크린샷 2024-03-07 오후 4 34 40" src="https://github.com/sanghun1210/sanghun1210/assets/7554521/642bd9e3-7898-4cc9-8b39-f57b876fee6d">
-
 
 ## :man_technologist: Latest [blog posts](https://sanghun1210.github.io/)
 <!-- BLOG-POST-LIST:START -->
