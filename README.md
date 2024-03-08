@@ -8,7 +8,7 @@
 </p>
 
 
-- 🔭 I’m currently working at [MegazoneCloud](https://www.megazone.com/us/) as an SRE
+- 🔭 I’m currently working at [MegazoneCloud](https://www.megazone.com/us/) as an Cloud Solution Architect
 - 💬 Ask me about **Go, Git and Python**
 
 
