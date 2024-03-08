@@ -1,4 +1,4 @@
---![profile](https://github.com/sanghun1210/sanghun1210/assets/7554521/b0f8f8d6-32bc-41c4-8aec-b0e9b6f3675a) 
+![profile](https://github.com/sanghun1210/sanghun1210/assets/7554521/b0f8f8d6-32bc-41c4-8aec-b0e9b6f3675a) 
 
 - 🔭 I’m currently working at [MegazoneCloud](https://www.megazone.com/us/) as an Cloud Solution Architect
 - 💬 Ask me about **Go, Git and Python**
