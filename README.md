@@ -17,9 +17,9 @@ Git Repository는 주로 R과 Python Project를 중심으로 하고 있으며, �
 
 ## :man_technologist: Latest [blog posts](https://sanghun1210.github.io/)
 <!-- BLOG-POST-LIST:START -->
-- [경제 뉴스 - 시장분석, 산업분석 자동화1](https://sanghun1210.github.io/posts/automation_naver_news/)
+- [R Graphics 활용1](https://sanghun1210.github.io/posts/rtip_graphcis_c1/)
+- [시장분석, 산업분석 자동화](https://sanghun1210.github.io/posts/automation_naver_news/)
 - [AWS WAF와 Network Firewall의 차이](https://sanghun1210.github.io/posts/difference-between-aws-waf-and-aws-network-firewall/)
-- [Introduction to data.table](https://erikaduan.github.io/posts/2021-01-30-data-table-part-1)
 - [Volcano plots with ggplot2](https://erikaduan.github.io/posts/2021-01-02-volcano-plots-with-ggplot2)
 - [Cleaning free text and wrangling strings](https://erikaduan.github.io/posts/2020-12-31-cleaning-free-text-and-wrangling-strings)
 <!-- BLOG-POST-LIST:END -->
